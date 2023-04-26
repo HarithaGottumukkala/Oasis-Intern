@@ -1,4 +1,4 @@
-# Numberguessinggame
+#NUMBER GUESSING GAME
 import java.util.Scanner;
 public class Task2{
 	public static void guessingNumberGame()
