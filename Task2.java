@@ -1,6 +1,6 @@
-#ATMinterfaceIDE
+# Numberguessinggame
 import java.util.Scanner;
-public class Task1{
+public class Task2{
 	public static void guessingNumberGame()
 	{
 		Scanner sc = new Scanner(System.in);
